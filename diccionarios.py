@@ -12,7 +12,6 @@ while True:
     print("2. Mostrar estudiantes")
     print("3. Eliminar estudiante")
     print("4. Salir")
-    print("================================")
 
     op_usuario = int(input("Ingrese una opcion: "))
 
