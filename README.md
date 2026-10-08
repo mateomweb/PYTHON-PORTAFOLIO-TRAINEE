@@ -40,13 +40,13 @@ Variables, condicionales, bucles `for` / `while` y entrada de datos.
 | [diario-personal.py](05-archivos-json-excepciones/diario-personal.py) | Diario en archivo `.txt` usando los modos `r`, `w` y `a`, con `try / except / finally`. |
 | [inventario-tienda-json.py](05-archivos-json-excepciones/inventario-tienda-json.py) | Inventario persistente en JSON con excepción personalizada, `try / except / else / finally` y exportación de reportes. |
 
-## ▶️ Cómo ejecutar
+##  Cómo ejecutar
 
 Requiere Python 3.10 o superior.
 
 ```bash
-git clone https://github.com/mateomweb/sistemas-de-notas-python.git
-cd sistemas-de-notas-python
+git clone https://github.com/mateomweb/PYTHON-PORTAFOLIO-TRAINEE.git
+cd PYTHON-PORTAFOLIO-TRAINEE
 python 01-fundamentos/adivina-el-numero.py
 ```
 
