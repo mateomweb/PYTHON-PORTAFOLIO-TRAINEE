@@ -1,14 +1,27 @@
-print(" CAJERO AUTOMATICO ")
-
 saldo_inicial = 1000000
 
-retiro_usuario=int(input("ingrese el retiro deseado: "))
+def cajero_automatico(saldo_inicial):
 
-if retiro_usuario<=saldo_inicial:
-    print("RETIRO EXITOSO")
     total=saldo_inicial-retiro_usuario
-    print(f"lo que procedio a retirar fue de: {retiro_usuario}")
-    print(f"lo que le sobra de saldo es de: {total}")
 
-else:
-    print("retiro fallido, saldo insuficiente")
+    if saldo_inicial >= retiro_usuario:
+        return f"su retiro  fue de: {retiro_usuario}, y le sobro: {total}"
+
+    else:
+            return "saldo insuficiente"
+
+
+while True:
+    try:
+
+        retiro_usuario=int(input("ingrese el retiro deseado: "))
+
+        resultado = cajero_automatico(saldo_inicial)
+        print(resultado)
+        break
+    except ValueError:
+        print("porfavor ingrese numeros")
+        continue
+
+
+
