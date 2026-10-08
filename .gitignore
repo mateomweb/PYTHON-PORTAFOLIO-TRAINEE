@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+
+contactos.json
+inventario.json
+diario.txt
