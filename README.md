@@ -40,7 +40,7 @@ Variables, condicionales, bucles `for` / `while` y entrada de datos.
 | [diario-personal.py](05-archivos-json-excepciones/diario-personal.py) | Diario en archivo `.txt` usando los modos `r`, `w` y `a`, con `try / except / finally`. |
 | [inventario-tienda-json.py](05-archivos-json-excepciones/inventario-tienda-json.py) | Inventario persistente en JSON con excepción personalizada, `try / except / else / finally` y exportación de reportes. |
 
-##  Cómo ejecutar
+## ▶️ Cómo ejecutar
 
 Requiere Python 3.10 o superior.
 
