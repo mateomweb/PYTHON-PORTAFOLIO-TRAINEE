@@ -1,6 +1,6 @@
 # Portafolio Python Trainee 🐍
 
-Colección de ejercicios y mini proyectos que documentan mi aprendizaje de Python, desde lo básico hasta programación orientada a objetos, manejo de archivos, JSON y excepciones.
+Hola, soy **Mateo** 👋, estudiante y trainee de Python. En este repositorio reúno los ejercicios de práctica que voy haciendo mientras aprendo: desde lo básico hasta mis primeros pasos con POO, archivos, JSON y excepciones.
 
 ## 🗂️ Estructura
 
